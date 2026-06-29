@@ -1,0 +1,1 @@
+# campingduckoo image CDN
